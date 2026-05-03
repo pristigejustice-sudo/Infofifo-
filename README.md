@@ -12,7 +12,7 @@ Infifo helps job seekers and students find verified jobs and scholarships worldw
 - 📱 Mobile‑friendly design
 
 ## Live Demo
-[https://your-username.github.io/infifo/](https://your-username.github.io/infifo/)
+[https://your-userjusticepristige.github.io/infifo/](https://your-justicepristige.github.io/infifo/)
 
 *Replace `your-username` with your actual GitHub username.*
 
